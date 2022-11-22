@@ -1,0 +1,144 @@
+/* @media (min-width: 991px) and (max-width: 1440px) */
+@media (min-width: 991px) {
+    .col_header {
+        height: 35vh;
+    }
+
+}
+
+@media  (max-width: 1199px) {
+    .form-inline {
+        width: 310px;
+    }
+    .form-control {
+        margin-left: 16%;
+    }
+    .btn-search {
+        margin-left: 78%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .form-inline {
+        margin-top: -65px;
+        margin-left: 395px;
+    }
+    .menu_button6 {
+        width: 115px;
+        margin-left: -15px;
+        z-index: 2;
+    }
+    .col-sidebar_right {
+        margin-top: -300px;
+        margin-left: 10px;
+    }
+    .girl_bottom {
+        margin-top: -0px;
+    }
+}
+@media (max-width: 767px) {
+    .title_left1 {
+        margin-left: 50px;
+        margin-top: -45px;
+    }
+    .text_left1 {
+        width: 150px;
+        margin-left: 50px;
+    }
+    .title_left3 {
+        margin-left: 15px;
+        margin-top: -55px;
+    }
+    .text_right1 {
+        width: 140px;
+        margin-left: 80px;
+        margin-top: -70px;
+    }
+    .left_menu3 {
+        height: 420px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    body {
+        width: 100%;
+    }
+    .form-inline {
+        margin-top: -32px;
+        margin-left: 215px;
+    }
+    .menu_button5 {
+        width: 85px;
+        margin-left: 10px;
+    }
+    .menu_button6 {
+        width: 85px; 
+        margin-left: -15px;
+        z-index: 2;
+    }
+    .row_content {
+        margin-top: 30px;
+    }
+}
+@media (min-width: 525px) and (max-width: 575px) {
+    body {
+        width: 100%;
+    }
+    .content {
+        margin-top: 30px;
+    }
+    .form-inline {
+        width: 320px;
+        margin-left: 205px;
+    }
+    .menu_button5 {
+        width: 85px;
+        margin-left: 18px;
+    }
+    .menu_button6 {
+        width: 85px; 
+        margin-left: -15px;
+        z-index: 2;
+    }
+    .social_btns {
+        margin-top: 40px;
+    }
+}
+@media (min-width: 500px) and (max-width: 524px) {
+    body {
+        width: 100%;
+    }
+    .content {
+        margin-top: 30px;
+    }
+    .menu_button4 {
+        margin-left: 20px;
+    }
+    .menu_button5 {
+        width: 85px;
+        margin-left: -20px;
+    }
+    .menu_button6 {
+        width: 85px; 
+        margin-left: -15px;
+        z-index: 2;
+    }
+    .form-inline {
+        margin-left: 250px;
+        width: 250px;
+    }
+    #inputSearch {
+        width: 170px;
+        margin-left: 10px;
+    }
+    .form-inline button {
+        margin-left: 185px;
+    }
+    .social_btns {
+        padding-top: 35px; 
+    }
+}
+@media (min-width: 300px) and (max-width: 499px) {
+    .content {
+        margin-top: 0px;
+    }
+}
